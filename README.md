@@ -10,7 +10,7 @@ File Description:
 
  **file_generate.py** : Code for generating files to test KG4SL.
 
- **data/** : empty directory
+ **data/** : directory of raw data(deleted)
 
  **code/** : code of genarating some embeddings
 
